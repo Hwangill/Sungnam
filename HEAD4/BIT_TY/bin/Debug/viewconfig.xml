@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<InfoCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<BackgroundImagePath>D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD3\BIT_TY\Image\Vertical\main_std.jpg</BackgroundImagePath>
+	<TodayWeather Width="50" Height="50" XOffset="8" YOffset="14" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="45" IsLabel="0">test1</TodayWeather>
+
+	<TomorowWeather Width="50" Height="50" XOffset="122" YOffset="14" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="45" IsLabel="1">test1</TomorowWeather>
+	<TodayTemperature Width="47" Height="21" XOffset="53" YOffset="49" TextColor="White" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1
+	</TodayTemperature>
+	<TomorowTemperature Width="47" Height="21" XOffset="170" YOffset="49" TextColor="White" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1
+	</TomorowTemperature>
+	<StationName Width="338" Height="48" XOffset="214" YOffset="14" TextColor="White" BackColor="Transparent" FontName="나눔고딕" FontSize="45" IsLabel="0">test1
+	</StationName>
+	<StationId Width="338" Height="30" XOffset="214" YOffset="66" TextColor="White" BackColor="Transparent" FontName="나눔고딕" FontSize="20" IsLabel="0">test1
+	</StationId>
+	<TodayDate Width="126" Height="24" XOffset="632" YOffset="20" TextColor="White" BackColor="Transparent" FontName="나눔고딕" FontSize="18" IsLabel="0">test1
+	</TodayDate>
+	<TimeNow Width="126" Height="28" XOffset="632" YOffset="50" TextColor="White" BackColor="Transparent" FontName="나눔고딕" FontSize="22" IsLabel="0">test1
+	</TimeNow>
+	<NetworkStatus Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1
+	</NetworkStatus>
+	<RTUStatus Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1
+	</RTUStatus>
+	<CameraStatus Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1
+	</CameraStatus>
+	<TimeNow Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1
+	</TimeNow>
+	<NearBus Width="589" Height="87" XOffset="189" YOffset="100" TextColor="Yellow" BackColor="Transparent" FontName="나눔고딕" FontSize="55" IsLabel="0">test1</NearBus>
+
+  <Rows Width="768" Height="86" XOffset="0" YOffset="251">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="39" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="38" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="337">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="39" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="38" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="423">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="39" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="38" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="509">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="39" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="38" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="595">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="39" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="38" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>  
+  <Rows Width="768" Height="86" XOffset="0" YOffset="682">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="39" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="38" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="나눔고딕" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>      
+</InfoCollection>

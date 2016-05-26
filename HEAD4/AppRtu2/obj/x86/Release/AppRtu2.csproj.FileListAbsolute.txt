@@ -1,0 +1,50 @@
+C:\Users\Administrator\Desktop\CMM\bin\Release\AppRtu2.exe.config
+C:\Users\Administrator\Desktop\CMM\bin\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\CMM\bin\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\AppRtu2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\AppRtu2.RtuForm.resources
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\CMM - 복사본\bin\Release\AppRtu2.exe.config
+C:\Users\Administrator\Desktop\CMM - 복사본\bin\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\CMM - 복사본\bin\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\AppRtu2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\AppRtu2.RtuForm.resources
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\CMM - 복사본\AppRtu2\obj\x86\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\DJ_BIT통합\bin\Release\AppRtu2.exe.config
+C:\Users\Administrator\Desktop\DJ_BIT통합\bin\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\DJ_BIT통합\bin\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\AppRtu2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\AppRtu2.RtuForm.resources
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\DJ_BIT통합\AppRtu2\obj\x86\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Full\bin\Release\AppRtu2.exe.config
+C:\Users\Administrator\Desktop\DJ_BIT_Full\bin\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Full\bin\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu2.RtuForm.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\bin\Release\AppRtu2.exe.config
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\bin\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\bin\Release\AppRtu2.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\AppRtu2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\AppRtu2.RtuForm.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\AppRtu2.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Full - 복사본\AppRtu2\obj\x86\Release\AppRtu2.pdb

@@ -1,0 +1,1124 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MarqueControl</name>
+    </assembly>
+    <members>
+        <member name="T:MarqueControl.Controls.SuperMarquee">
+            <summary>
+            Control featuring marque and has easy to use designer.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.Reset">
+            <summary>
+            Reset the <see cref="T:MarqueControl.Controls.SuperMarquee"/>
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.#ctor">
+            <summary>
+            Create instance of the <see cref="T:MarqueControl.Controls.SuperMarquee"/>
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.Paint"></see> event.
+            </summary>
+            
+            <param name="e">A <see cref="T:System.Windows.Forms.PaintEventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnMouseEnter(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.MouseEnter"></see> event.
+            </summary>
+            
+            <param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnMouseLeave(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.MouseLeave"></see> event.
+            </summary>
+            
+            <param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnSizeChanged(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.SizeChanged"></see> event.
+            </summary>
+            
+            <param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnMouseClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.MouseClick"></see> event.
+            </summary>
+            
+            <param name="e">An <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnDoubleClick(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.DoubleClick"></see> event.
+            </summary>
+            
+            <param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.MouseMove"></see> event.
+            </summary>
+            
+            <param name="e">A <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Control.MouseDown"></see> event.
+            </summary>
+            
+            <param name="e">A <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data. </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnTimerTick(System.Object,System.EventArgs)">
+            <summary>
+            Handler for timer Tick.
+            </summary>
+            <param name="sender">Source of the event.</param>
+            <param name="e">Agruments attached with the event.</param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnRemoved(System.Int32,MarqueControl.Entity.TextElement)">
+            <summary>
+            Handler for <see cref="T:MarqueControl.Entity.TextElement"/> removed from the collection.
+            </summary>
+            <param name="index">Index of the <see cref="T:MarqueControl.Entity.TextElement"/></param>
+            <param name="value">Value of the <see cref="T:MarqueControl.Entity.TextElement"/> </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnInserted(System.Int32,MarqueControl.Entity.TextElement)">
+            <summary>
+            Handler for <see cref="T:MarqueControl.Entity.TextElement"/> being inserted in the collection.
+            </summary>
+            <param name="index">Index of the <see cref="T:MarqueControl.Entity.TextElement"/></param>
+            <param name="value">Value of the <see cref="T:MarqueControl.Entity.TextElement"/> </param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.StartMarquee">
+            <summary>
+            Start the marquee.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.StopMarquee">
+            <summary>
+            Stop the marquee.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.ResetMorquee">
+            <summary>
+            Reset the marquee.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.HitTest(System.Drawing.Point)">
+            <summary>
+            Performs the HitTest.
+            </summary>
+            <param name="p">Point at which HitTest will be performed.</param>
+            <returns>returm <see cref="T:MarqueControl.Entity.HitTestInfo"/> object containing HitTest information.</returns>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnItemDoubleClicked(System.Int32)">
+            <summary>
+            Fires <see cref="E:MarqueControl.Controls.SuperMarquee.ItemDoubleClicked"/> event.
+            </summary>
+            <param name="index">Index of the <see cref="T:MarqueControl.Entity.TextElement"/></param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnItemClicked(System.Int32)">
+            <summary>
+            Fires <see cref="E:MarqueControl.Controls.SuperMarquee.ItemClicked"/> event.
+            </summary>
+            <param name="index">Index of the <see cref="T:MarqueControl.Entity.TextElement"/></param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnLapCompleted">
+            <summary>
+            Fires <see cref="E:MarqueControl.Controls.SuperMarquee.LapCompleted"/> event.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.OnBeforeToolTip(MarqueControl.EventArguments.GenericCancelEventArgs{MarqueControl.Entity.ToolTipData})">
+            <summary>
+            Fires event BeforeToolTip.
+            </summary>
+            <param name="args">Event data of <see cref="E:MarqueControl.Controls.SuperMarquee.BeforeToolTip"/></param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.GetDefaultText">
+            <summary>
+            Gets the default text for the newly added <see cref="T:MarqueControl.Entity.TextElement"/> object
+            </summary>
+            <returns>Default text for added <see cref="T:MarqueControl.Entity.TextElement"/> object </returns>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.GetMaxHeight">
+            <summary>
+            Gets the maximum height of the stripe.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:MarqueControl.Controls.SuperMarquee.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MarqueControl.Controls.SuperMarquee.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Controls.SuperMarquee.ItemClicked">
+            <summary>
+            Item is clicked.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Controls.SuperMarquee.ItemDoubleClicked">
+            <summary>
+            Item was double clicked.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Controls.SuperMarquee.LapCompleted">
+            <summary>
+            Lap was completed.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Controls.SuperMarquee.BeforeToolTip">
+            <summary>
+            Lap was completed.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.HoverStop">
+            <summary>
+            Gets or sets that marquee will be running or not if mouse hover is there.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.AutoRewind">
+            <summary>
+            Gets or sets on completion of one round of marquee it will start again or not.
+            </summary>
+            <value>SuperMarquee will be auto rewined or not.</value>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.Elements">
+            <summary>
+            Gets list of the <see cref="T:MarqueControl.Entity.TextElement"/> associated with the control.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.Item(System.Int32)">
+            <summary>
+            Gets the <see cref="T:MarqueControl.Entity.TextElement"/> at the specified index.
+            </summary>
+            <param name="index">Index of the <see cref="T:MarqueControl.Entity.TextElement"/> to be obtained.</param>
+            <returns><see cref="T:MarqueControl.Entity.TextElement"/> at the specified index.</returns>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.Running">
+            <summary>
+            Gets or sets whether marquee is running or not.
+            </summary>
+            <value>SuperMarquee is running or not.</value>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.AutoToolTip">
+            <summary>
+            Gets or sets whether tool tip will be shown autometically..
+            </summary>
+            <value>ToolTip will be shown or not.</value>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.ImageList">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Forms.ImageList"/> associated with the component.
+            </summary>
+            <value>ImageList associated with the component.</value>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.StripColor">
+            <summary>
+            Gets or sets the Color of the stripe. Enable <see cref="P:MarqueControl.Controls.SuperMarquee.ShowStrip"/> for displaying the strip.
+            </summary>or of the supermarquee strip.
+            <value>Col.</value>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.ShowStrip">
+            <summary>
+            Gets or sets that strip will be shown or not.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.MarqueeSpeed">
+            <summary>
+            Gets or sets the Speed of the marquee. Maximum speed is 999 and minimum speed is 1.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.Enabled">
+            <summary>
+            Not relevent to the control
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.Font">
+            <summary>
+            Not relevent to the control
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Controls.SuperMarquee.ForeColor">
+            <summary>
+            Not relevent to the control
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Designer.RangeEditor.OpacityEditorUI.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Designer.RangeEditor.OpacityEditorUI.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MarqueControl.Designer.RangeEditor.OpacityEditorUI.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Designer.SuperMarqueDesigner.Initialize(System.ComponentModel.IComponent)">
+            <summary>
+            Initializes the designer with the specified component.
+            </summary>
+            
+            <param name="component">The <see cref="T:System.ComponentModel.IComponent"></see> to associate with the designer. </param>
+        </member>
+        <member name="P:MarqueControl.Designer.SuperMarqueDesigner.ActionLists">
+            <summary>
+            Gets the design-time action lists supported by the component associated with the designer.
+            </summary>
+            
+            <returns>
+            The design-time action lists supported by the component associated with the designer.
+            </returns>
+            
+        </member>
+        <member name="M:MarqueControl.Designer.SuperMarqueDesignerActionList.GetSortedActionItems">
+            <summary>
+            Returns the collection of <see cref="T:System.ComponentModel.Design.DesignerActionItem"></see> objects contained in the list.
+            </summary>
+            
+            <returns>
+            A <see cref="T:System.ComponentModel.Design.DesignerActionItem"></see> array that contains the items in this list.
+            </returns>
+            
+        </member>
+        <member name="P:MarqueControl.Designer.SuperMarqueDesignerActionList.AutoShow">
+            <summary>
+            Gets or sets a value indicating whether the smart tag panel should automatically be displayed when it is created.
+            </summary>
+            
+            <returns>
+            true if the panel should be shown when the owning component is created; otherwise, false. The default is false.
+            </returns>
+            
+        </member>
+        <member name="T:MarqueControl.Entity.TextElement">
+            <summary>
+            Component to be used as display in marquee control.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.Reset">
+            <summary>
+            Reset the <see cref="T:MarqueControl.Entity.TextElement"/>
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the element.</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String,System.Boolean)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the element.</param>
+            <param name="isLink">Indicates behaves like a link or not.</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String,System.Drawing.Color)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the new element.</param>
+            <param name="foreColor">Text color of the element</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String,System.Drawing.Color,System.Boolean)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the new element.</param>
+            <param name="foreColor">Text color of the element</param>
+            <param name="isLink">Indicates behaves like a link or not.</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String,System.Drawing.Color,System.Drawing.Font)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the new element.</param>
+            <param name="foreColor">Text color of the element</param>
+            <param name="font">F</param>ont of the element.
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String,System.Drawing.Color,System.Drawing.Font,System.Boolean)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the new element.</param>
+            <param name="foreColor">Text color of the element</param>
+            <param name="font">F</param>ont of the element.
+            <param name="isLink">Indicates behaves like a link or not.</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.#ctor(System.String,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            Create a new instance.
+            </summary>
+            <param name="text">Text of the new element.</param>
+            <param name="leftImageIndex">Left image index</param>
+            <param name="rightImageIndex">Right image index</param>
+            <param name="isLink">Indicates behaves like a link or not.</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.SetParent(MarqueControl.Controls.SuperMarquee)">
+            <summary>
+            Sets the parent of the element.
+            </summary>
+            <param name="marquee">Parent control</param>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"></see> that represents the current <see cref="T:System.Object"></see>.
+            </summary>
+            
+            <returns>
+            A <see cref="T:System.String"></see> that represents the current <see cref="T:System.Object"></see>.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.GetHashCode">
+            <summary>
+            Serves as a hash function for a particular type. <see cref="M:System.Object.GetHashCode"></see> is suitable for use in hashing algorithms and data structures like a hash table.
+            </summary>
+            
+            <returns>
+            A hash code for the current <see cref="T:System.Object"></see>.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Entity.TextElement.Dispose(System.Boolean)">
+            <summary>
+            Releases the unmanaged resources used by the <see cref="T:System.ComponentModel.Component"></see> and optionally releases the managed resources.
+            </summary>
+            
+            <param name="disposing">true to release both managed and unmanaged resources; false to release only unmanaged resources. </param>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.Text">
+            <summary>
+            Text displayed in this element.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.ForeColor">
+            <summary>
+            Text color of the element.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.IsLink">
+            <summary>
+            Indicates whether the element will be displayed as a link or not.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.Font">
+            <summary>
+            Font of this element.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.Tag">
+            <summary>
+            User data associated with the element.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.LeftImageIndex">
+            <summary>
+            Left image index of the image to be displayed.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.RightImageIndex">
+            <summary>
+            Right image index of the image to be displayed.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.Parent">
+            <summary>
+            Parent where this element is added.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.TextElement.ToolTipText">
+            <summary>
+            Text displayed in this element.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Entity.ToolTipData">
+            <summary>
+            Stores data of ToolTip.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Entity.ToolTipData.#ctor(System.String,System.Int32,System.Drawing.Point)">
+            <summary>
+            Create instance of the class.
+            </summary>
+            <param name="toolTipText">text associated with ToolTip</param>
+            <param name="itemIndex">index of the Item over which ToolTip will be displayed</param>
+            <param name="location">location of ToolTip relative to Control. Do not forget to call Control.PointToClient method.</param>
+        </member>
+        <member name="M:MarqueControl.Entity.ToolTipData.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"></see> that represents the current <see cref="T:System.Object"></see>.
+            </summary>
+            
+            <returns>
+            A <see cref="T:System.String"></see> that represents the current <see cref="T:System.Object"></see>.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Entity.ToolTipData.GetHashCode">
+            <summary>
+            Serves as a hash function for a particular type. <see cref="M:System.Object.GetHashCode"></see> is suitable for use in hashing algorithms and data structures like a hash table.
+            </summary>
+            
+            <returns>
+            A hash code for the current <see cref="T:System.Object"></see>.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="P:MarqueControl.Entity.ToolTipData.ToolTipText">
+            <summary>
+            Gets or sets text associated with ToolTip
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.ToolTipData.ItemIndex">
+            <summary>
+            Gets index of the Item over which ToolTip will be displayed.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.ToolTipData.Location">
+            <summary>
+            Gets or sets location of ToolTip relative to Control. Do not forget to call Control.PointToClient method.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Enums.HitTestArea">
+            <summary>
+            Indicates the HitTestArea
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Enums.HitTestArea.Item">
+            <summary>
+            Item.
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Enums.HitTestArea.LeftImage">
+            <summary>
+            Left image.
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Enums.HitTestArea.RightImage">
+            <summary>
+            Right image.
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Enums.HitTestArea.Strip">
+            <summary>
+            Strip at which marquee is being displayed.
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Enums.HitTestArea.Control">
+            <summary>
+            Super marque control.
+            </summary>
+        </member>
+        <member name="F:MarqueControl.Enums.HitTestArea.None">
+            <summary>
+            No where.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Entity.HitTestInfo">
+            <summary>
+            HitTest information class  for the SuperMarquee control.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Entity.HitTestInfo.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Entity.HitTestInfo.#ctor(MarqueControl.Controls.SuperMarquee,System.Drawing.Point)">
+            <summary>
+            Create instance of <see cref="T:MarqueControl.Entity.HitTestInfo"/>. Use this to get the HitTest information.
+            </summary>
+            <param name="control"><see cref="T:MarqueControl.Controls.SuperMarquee"/> for which HitTest is to be performed.</param>
+            <param name="testPoint">HitTest Point</param>
+        </member>
+        <member name="P:MarqueControl.Entity.HitTestInfo.Index">
+            <summary>
+            Index of the <see cref="T:MarqueControl.Entity.TextElement"/> if point is above element otherwise -1.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.HitTestInfo.Point">
+            <summary>
+            HitTest point.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Entity.HitTestInfo.Area">
+            <summary>
+            <see cref="T:MarqueControl.Enums.HitTestArea"/> at which point is located.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.EventArguments.ItemClickEventArgs">
+            <summary>
+            Item click argument.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.EventArguments.ItemClickEventArgs.#ctor(System.Int32)">
+            <summary>
+            Create  instance for EventAgrs
+            </summary>
+            <param name="index"></param>
+        </member>
+        <member name="P:MarqueControl.EventArguments.ItemClickEventArgs.Index">
+            <summary>
+            Index of the element clicked.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Attributes.MinMaxAttribute">
+            <summary>
+            Minmimum maximum value attribute.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Attributes.MinMaxAttribute.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Create instance of <see cref="T:MarqueControl.Attributes.MinMaxAttribute"/>.
+            </summary>
+            <param name="minValue">Minimum value</param>
+            <param name="maxValue">Maximum value</param>
+        </member>
+        <member name="M:MarqueControl.Attributes.MinMaxAttribute.Equals(System.Object)">
+            <summary>
+            Returns a value that indicates whether this instance is equal to a specified object.
+            </summary>
+            
+            <returns>
+            true if obj equals the type and value of this instance; otherwise, false.
+            </returns>
+            
+            <param name="obj">An <see cref="T:System.Object"></see> to compare with this instance or null. </param><filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Attributes.MinMaxAttribute.GetHashCode">
+            <summary>
+            Returns the hash code for this instance.
+            </summary>
+            
+            <returns>
+            A 32-bit signed integer hash code.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Attributes.MinMaxAttribute.IsDefaultAttribute">
+            <summary>
+            When overridden in a derived class, indicates whether the value of this instance is the default value for the derived class.
+            </summary>
+            
+            <returns>
+            true if this instance is the default attribute for the class; otherwise, false.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Attributes.MinMaxAttribute.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"></see> that represents the current <see cref="T:System.Object"></see>.
+            </summary>
+            
+            <returns>
+            A <see cref="T:System.String"></see> that represents the current <see cref="T:System.Object"></see>.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="P:MarqueControl.Attributes.MinMaxAttribute.MinValue">
+            <summary>
+            Gets minimum value.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Attributes.MinMaxAttribute.MaxValue">
+            <summary>
+            Gets maximum value.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.EventArguments.GenericCancelEventHandler`1">
+            <summary>
+            Generic cancel event handler.
+            </summary>
+            <typeparam name="T">Generic value type.</typeparam>
+            <param name="sender">Source of the event.</param>
+            <param name="tArgs">Event data associated with the event.</param>
+        </member>
+        <member name="T:MarqueControl.EventArguments.GenericCancelEventArgs`1">
+            <summary>
+            Cancel event argument.
+            </summary>
+            <typeparam name="T">Generic value type.</typeparam>
+        </member>
+        <member name="M:MarqueControl.EventArguments.GenericCancelEventArgs`1.#ctor(`0)">
+            <summary>
+            Create instance for <see cref="T:MarqueControl.EventArguments.GenericCancelEventArgs`1"/>
+            </summary>
+            <param name="value">Event data associated with the event.</param>
+        </member>
+        <member name="M:MarqueControl.EventArguments.GenericCancelEventArgs`1.#ctor(`0,System.Boolean)">
+            <summary>
+            Create instance for <see cref="T:MarqueControl.EventArguments.GenericCancelEventArgs`1"/>
+            </summary>
+            <param name="value">Event data associated with the event.</param>
+            <param name="cancel">Perform cancel operation.</param>
+        </member>
+        <member name="P:MarqueControl.EventArguments.GenericCancelEventArgs`1.Value">
+            <summary>
+            Gets or sets value.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.EventArguments.GenericChangeEventArgs`1">
+            <summary>
+            Generic Event Handler.
+            </summary>
+            <typeparam name="T">Generic value type.</typeparam>
+        </member>
+        <member name="M:MarqueControl.EventArguments.GenericChangeEventArgs`1.#ctor(`0,`0)">
+            <summary>
+            Craetes new instance of the <see cref="T:MarqueControl.EventArguments.GenericChangeEventArgs`1"/>
+            </summary>
+            <param name="oldValue">Old value</param>
+            <param name="newValue">New value</param>
+        </member>
+        <member name="M:MarqueControl.EventArguments.GenericChangeEventArgs`1.#ctor(`0,`0,System.Boolean)">
+            <summary>
+            Craetes new instance of the <see cref="T:MarqueControl.EventArguments.GenericChangeEventArgs`1"/>
+            </summary>
+            <param name="oldValue">Old value</param>
+            <param name="newValue">New value</param>
+            <param name="cancel">Perform cancel operation or not.</param>
+        </member>
+        <member name="P:MarqueControl.EventArguments.GenericChangeEventArgs`1.OldValue">
+            <summary>
+            Gets old value.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.EventArguments.GenericChangeEventArgs`1.NewValue">
+            <summary>
+            Gets or sets New value
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1">
+            <summary>
+            Collection which supports events.
+            </summary>
+            <typeparam name="T">Collection element type.</typeparam>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.#ctor">
+            <summary>
+            Create new instance of the collection.
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.#ctor(System.Object)">
+            <summary>
+            Create new instance of the collection.
+            </summary>
+            <param name="owner">Owner of the collection.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Create new instance of the collection.
+            </summary>
+            <param name="info">Serialization Info</param>
+            <param name="context">Streaming Context</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.#ctor(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Create new instance of the collection.
+            </summary>
+            <param name="items">Items to be inserted by default.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.#ctor(MarqueControl.Collection.GenericCollection{`0})">
+            <summary>
+            Create new instance of the collection.
+            </summary>
+            <param name="items">Items to be inserted by default.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Add(`0)">
+            <summary>
+            Adds an item to the end of the collection.
+            </summary>
+            <param name="item">The item to be added to the end of the Collection. The value can be null.</param>
+            <returns>The index at which the value has been added.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.AddRange(`0[])">
+            <summary>
+            Adds the array of elements.
+            </summary>
+            <param name="items"></param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Add(`0[])">
+            <summary>
+            Adds an item(s) to the end of the collection.
+            </summary>
+            <param name="items">The item to be added to the end of the Collection. The value can be null. </param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Insert(System.Int32,`0)">
+            <summary>
+            Inserts an element into the Collection at the specified index.
+            </summary>
+            <param name="index">Index at which item has to be inserted.</param>
+            <param name="item">Item to be inserted</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Remove(`0)">
+            <summary>
+            Removes item from the collection.
+            </summary>
+            <param name="item">Item to be removed.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.LastIndexOf(`0)">
+            <summary>
+            Gets the last index of item.
+            </summary>
+            <param name="item">Item to be searched.</param>
+            <returns>Gets the last index of the element.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.LastIndexOf(`0,System.Int32)">
+            <summary>
+            Gets the last index of the supplied item from the starting index.
+            </summary>
+            <param name="item">Item to be searched.</param>
+            <param name="startIndex">Start index from which searching will be done.</param>
+            <returns>Gets the last index of the element.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.LastIndexOf(`0,System.Int32,System.Int32)">
+            <summary>
+            Gets the last index of the supplied item from the starting index. 
+            </summary>
+            <param name="item">The System.Object to locate in the System.Collections.ArrayList. The value can be null.</param>
+            <param name="startIndex">The zero-based starting index of the backward search.</param>
+            <param name="count">The number of elements in the section to search.</param>
+            <returns>The zero-based index of the last occurrence of value within the range of elements in the System.Collections.ArrayList that contains count number of elements and ends at startIndex, if found; otherwise, -1.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.InsertRange(System.Int32,MarqueControl.Collection.GenericCollection{`0})">
+            <summary>
+            Inserts the elements to the specified index.
+            </summary>
+            <param name="index">Index at which insertion will be take palce.</param>
+            <param name="items">Items to be inserted.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Contains(`0)">
+            <summary>
+            Finds collection contains the supplied element.
+            </summary>
+            <param name="item">Item to be searched.</param>
+            <returns>return true if found, else false.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.IndexOf(`0)">
+            <summary>
+            Gets the index of the supplied item.
+            </summary>
+            <param name="value">Item to be searched.</param>
+            <returns>returns index of the iotem. Returns -1 if not found in the collection.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.IndexOf(`0,System.Int32)">
+            <summary>
+            Gets the index of the supplied item.
+            </summary>
+            <param name="value">Item to be searched.</param>
+            <param name="startIndex">Index from which searching will start.</param>
+            <returns>returns index of the iotem. Returns -1 if not found in the collection.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.IndexOf(`0,System.Int32,System.Int32)">
+            <summary>
+            Gets the index of the supplied item.
+            </summary>
+            <param name="value">Item to be searched.</param>
+            <param name="startIndex">Index from which searching will start.</param>
+            <param name="count">The number of elements in the section to search.</param>
+            <returns>returns index of the iotem. Returns -1 if not found in the collection.</returns>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnClear">
+            <summary>
+            Performs additional custom processes when clearing the contents of the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnClearComplete">
+            <summary>
+            Performs additional custom processes after clearing the contents of the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnInsert(System.Int32,System.Object)">
+            <summary>
+            Performs additional custom processes before inserting a new element into the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+            <param name="value">The new value of the element at index.</param>
+            <param name="index">The zero-based index at which to insert value.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnInsertComplete(System.Int32,System.Object)">
+            <summary>
+            Performs additional custom processes after inserting a new element into the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+            <param name="value">The new value of the element at index.</param>
+            <param name="index">The zero-based index at which to insert value.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnRemove(System.Int32,System.Object)">
+            <summary>
+            Performs additional custom processes when removing an element from the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+            <param name="value">The value of the element to remove from index.</param>
+            <param name="index">The zero-based index at which value can be found.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnRemoveComplete(System.Int32,System.Object)">
+            <summary>
+            Performs additional custom processes after removing an element from the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+            <param name="value">The value of the element to remove from index.</param>
+            <param name="index">The zero-based index at which value can be found.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnValidate(System.Object)">
+            <summary>
+            Performs additional custom processes when validating a value.
+            </summary>
+            
+            <param name="value">The object to validate.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnSet(System.Int32,System.Object,System.Object)">
+            <summary>
+            Performs additional custom processes before setting a value in the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+            <param name="oldValue">The value to replace with newValue.</param>
+            <param name="newValue">The new value of the element at index.</param>
+            <param name="index">The zero-based index at which oldValue can be found.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnSetComplete(System.Int32,System.Object,System.Object)">
+            <summary>
+            Performs additional custom processes after setting a value in the <see cref="T:System.Collections.CollectionBase"></see> instance.
+            </summary>
+            
+            <param name="oldValue">The value to replace with newValue.</param>
+            <param name="newValue">The new value of the element at index.</param>
+            <param name="index">The zero-based index at which oldValue can be found.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.OnDeserialization(System.Object)">
+            <summary>
+            Runs when the entire object graph has been deserialized.
+            </summary>
+            
+            <param name="sender">The object that initiated the callback. The functionality for this parameter is not currently implemented. </param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Populates a <see cref="T:System.Runtime.Serialization.SerializationInfo"></see> with the data needed to serialize the target object.
+            </summary>
+            
+            <param name="context">The destination (see <see cref="T:System.Runtime.Serialization.StreamingContext"></see>) for this serialization. </param>
+            <param name="info">The <see cref="T:System.Runtime.Serialization.SerializationInfo"></see> to populate with data. </param>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission. </exception>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.SetChildIndex(`0,System.Int32)">
+            <summary>
+            Sets the index of the child to the specified index.
+            </summary>
+            <param name="item">Child of which index is to be set.</param>
+            <param name="index">New index of the child.</param>
+        </member>
+        <member name="M:MarqueControl.Collection.GenericCollection`1.Sort(System.Collections.IComparer)">
+            <summary>
+            Sortes the collection with specified <see cref="T:System.Collections.IComparer"/>
+            </summary>
+            <param name="comparer"><see cref="T:System.Collections.IComparer"/> for sorting.</param>
+        </member>
+        <member name="P:MarqueControl.Collection.GenericCollection`1.Item(System.Int32)">
+            <summary>
+            Gets or sets the item at the specified index.
+            </summary>
+            <param name="index">Index of item to be retrieved.</param>
+            <returns></returns>
+        </member>
+        <member name="P:MarqueControl.Collection.GenericCollection`1.Owner">
+            <summary>
+            Gets or sets the Owner of the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Cleared">
+            <summary>
+            Collection is cleared.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Clearing">
+            <summary>
+            Collection is clearing.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Inserted">
+            <summary>
+            Item is inserted in the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Inserting">
+            <summary>
+            Item is inserting in the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Removed">
+            <summary>
+            Item is removed from the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Removing">
+            <summary>
+            Item is removing from the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Changing">
+            <summary>
+            Item value is changing in the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Changed">
+            <summary>
+            Item value is changed in the collection.
+            </summary>
+        </member>
+        <member name="E:MarqueControl.Collection.GenericCollection`1.Validating">
+            <summary>
+            Item is being validated.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.CollectionChangedHandler">
+            <summary>
+            Delegate Collection changed.
+            </summary>
+            <param name="index">Index of collecten being modified.</param>
+            <param name="value">Modified value.</param>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.CollectionChangingHandler">
+            <summary>
+            Delegate Collection changing.
+            </summary>
+            <param name="index">Index of collecten being modified.</param>
+            <param name="value">Modified value.</param>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.CollectionClearHandler">
+            <summary>
+            Delegate for collection cleared.
+            </summary>
+            <typeparam name="T">Item type.</typeparam>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.CollectionClearingHandler">
+            <summary>
+            Delegate for collection clearing.
+            </summary>
+            <param name="value">Cancel event args which contains collection data.</param>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.ItemChangeHandler">
+            <summary>
+            Delegate for index being changed.
+            </summary>
+            <param name="index">Index being changed.</param>
+            <param name="oldValue">Old value.</param>
+            <param name="newValue">New value.</param>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.ItemChangingHandler">
+            <summary>
+            Delegate for Item changing.
+            </summary>
+            <param name="index">Index of item which is changing.</param>
+            <param name="e">Change event argument.</param>
+        </member>
+        <member name="T:MarqueControl.Collection.GenericCollection`1.ValidateHandler">
+            <summary>
+            Delegate for Item being validated.
+            </summary>
+            <param name="value">Item being validated.</param>
+        </member>
+        <member name="T:MarqueControl.Attributes.ImagePropertyAttribute">
+            <summary>
+            Indicates Image property for indexing. e.g. If parent contains image list use "Parent.ImageList".
+            </summary>
+        </member>
+        <member name="M:MarqueControl.Attributes.ImagePropertyAttribute.#ctor(System.String)">
+            <summary>
+            Crate instance of the <see cref="T:MarqueControl.Attributes.ImagePropertyAttribute"/>
+            </summary>
+            <param name="relatedImageList"></param>
+        </member>
+        <member name="P:MarqueControl.Attributes.ImagePropertyAttribute.PropertyName">
+            <summary>
+            Gets the name of the property which is to be used for imagelist.
+            </summary>
+        </member>
+        <member name="T:MarqueControl.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:MarqueControl.Designer.TextElementDesigner.ActionLists">
+            <summary>
+            Gets the design-time action lists supported by the component associated with the designer.
+            </summary>
+            
+            <returns>
+            The design-time action lists supported by the component associated with the designer.
+            </returns>
+            
+        </member>
+        <member name="M:MarqueControl.Designer.TextElementDesignerActionList.GetSortedActionItems">
+            <summary>
+            Returns the collection of <see cref="T:System.ComponentModel.Design.DesignerActionItem"></see> objects contained in the list.
+            </summary>
+            
+            <returns>
+            A <see cref="T:System.ComponentModel.Design.DesignerActionItem"></see> array that contains the items in this list.
+            </returns>
+            
+        </member>
+        <member name="P:MarqueControl.Designer.TextElementDesignerActionList.AutoShow">
+            <summary>
+            Gets or sets a value indicating whether the smart tag panel should automatically be displayed when it is created.
+            </summary>
+            
+            <returns>
+            true if the panel should be shown when the owning component is created; otherwise, false. The default is false.
+            </returns>
+            
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<InfoCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<BackgroundImagePath>D:\Workz\BitBucket\Purgatory.NET\BIT_TY\BIT_TY\Image\Vertical\main_std.jpg</BackgroundImagePath>
+	<TodayWeather>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TodayWeather>
+	<TomorowWeather>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TomorowWeather>
+	<TodayTemperature>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TodayTemperature>
+	<TomorowTemperature>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TomorowTemperature>
+	<StationName>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</StationName>
+	<StationId>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</StationId>
+	<TodayDate>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TodayDate>
+	<TimeNow>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TimeNow>
+	<NetworkStatus>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</NetworkStatus>
+	<RTUStatus>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</RTUStatus>
+	<CameraStatus>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</CameraStatus>
+	<TimeNow>
+		<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+	</TimeNow>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="252">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="338">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="424">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="510">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>
+  <Rows Width="768" Height="86" XOffset="0" YOffset="596">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>  
+  <Rows Width="768" Height="86" XOffset="0" YOffset="682">
+  	<Cells Width="31" Height="37" XOffset="0" YOffset="23" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="145" Height="84" XOffset="31" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="82" Height="84" XOffset="178" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="35" Height="51" XOffset="260" YOffset="16" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="400" Height="84" XOffset="297" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+    <Cells Width="71" Height="84" XOffset="697" YOffset="0" TextColor="Black" BackColor="Transparent" FontName="³ª´®°íµñ" FontSize="15.7" IsLabel="0">test1</Cells>
+  </Rows>      
+</InfoCollection>

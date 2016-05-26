@@ -1,0 +1,8 @@
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\bin\Release\SuperMarquee.XML
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\bin\Release\MarqueControl.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\bin\Release\MarqueControl.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Release\MarqueControl.Controls.SuperMarquee.resources
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Release\MarqueControl.Properties.Resources.resources
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Release\MarqueControl.csproj.GenerateResource.Cache
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Release\MarqueControl.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Release\MarqueControl.pdb

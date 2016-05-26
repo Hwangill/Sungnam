@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\CMM\bin\Debug\AppRtu2.exe.config
+C:\Users\Administrator\Desktop\CMM\bin\Debug\AppRtu2.exe
+C:\Users\Administrator\Desktop\CMM\bin\Debug\AppRtu2.pdb
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\AppRtu2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\AppRtu2.RtuForm.resources
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\AppRtu2.exe
+C:\Users\Administrator\Desktop\CMM\AppRtu2\obj\x86\Debug\AppRtu2.pdb

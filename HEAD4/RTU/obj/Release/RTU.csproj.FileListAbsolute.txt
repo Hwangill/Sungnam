@@ -1,0 +1,7 @@
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\bin\Release\RTU.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\bin\Release\RTU.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\bin\Release\Common.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\bin\Release\Common.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\obj\Release\RTU.csprojResolveAssemblyReference.cache
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\obj\Release\RTU.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\RTU\obj\Release\RTU.pdb

@@ -1,0 +1,17 @@
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\bin\Debug\SuperMarquee.XML
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\bin\Debug\MarqueControl.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\bin\Debug\MarqueControl.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Debug\MarqueControl.csprojResolveAssemblyReference.cache
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Debug\MarqueControl.Controls.SuperMarquee.resources
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Debug\MarqueControl.Properties.Resources.resources
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Debug\MarqueControl.csproj.GenerateResource.Cache
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Debug\MarqueControl.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\MarqueControl\obj\Debug\MarqueControl.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\bin\Debug\SuperMarquee.XML
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\bin\Debug\MarqueControl.dll
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\bin\Debug\MarqueControl.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\obj\Debug\MarqueControl.Controls.SuperMarquee.resources
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\obj\Debug\MarqueControl.Properties.Resources.resources
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\obj\Debug\MarqueControl.csproj.GenerateResource.Cache
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\obj\Debug\MarqueControl.dll
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\MarqueControl\obj\Debug\MarqueControl.pdb

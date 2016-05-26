@@ -1,0 +1,4 @@
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Common\bin\Release\Common.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Common\bin\Release\Common.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Common\obj\Release\Common.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Common\obj\Release\Common.pdb

@@ -1,0 +1,32 @@
+<RtuPropertys>
+  <DllRtuVersion>1.0.0.0</DllRtuVersion>
+  <Serial>
+    <Port>COM1</Port>
+    <BaudRate>115200</BaudRate>
+    <StopBits>1</StopBits>
+    <Parity>0</Parity>
+    <DataBits>8</DataBits>
+    <RenewCycleTime>60</RenewCycleTime>
+  </Serial>
+  <Mapping>
+    <AC0>Fan1</AC0>
+    <AC1>Fan2</AC1>
+    <AC2>NA</AC2>
+    <AC3>NA</AC3>
+    <AC4>NA</AC4>
+    <AC5>NA</AC5>
+    <DC0>NA</DC0>
+    <DC1>NA</DC1>
+    <DC2>NA</DC2>
+    <DC3>NA</DC3>
+  </Mapping>
+  <Tempature>
+    <HeaterActionTempature>10</HeaterActionTempature>
+    <Fan1ActionTempature>30</Fan1ActionTempature>
+    <Fan2ActionTempature>40</Fan2ActionTempature>
+  </Tempature>
+  <Sound>
+    <SoundAmp>15</SoundAmp>
+    <SoundMute>0</SoundMute>
+  </Sound>
+</RtuPropertys>

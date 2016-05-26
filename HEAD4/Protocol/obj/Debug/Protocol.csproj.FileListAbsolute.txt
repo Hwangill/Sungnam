@@ -1,0 +1,18 @@
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Debug\Protocol.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Debug\Protocol.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\obj\Debug\Protocol.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\obj\Debug\Protocol.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Debug\AlexPilotti.FTPS.Client.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Debug\Common.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Debug\Common.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\Protocol.dll
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\Protocol.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\Common.dll
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\log4net.dll
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\Common.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\log4net.xml
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\obj\Debug\Protocol.dll
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\obj\Debug\Protocol.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\성남\20151021\HEAD4\Protocol\bin\Debug\alexpilotti.ftps.client.dll

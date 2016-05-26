@@ -1,0 +1,8 @@
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Release\Protocol.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Release\Protocol.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Release\AlexPilotti.FTPS.Client.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Release\Common.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\bin\Release\Common.pdb
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\obj\Release\Protocol.csprojResolveAssemblyReference.cache
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\obj\Release\Protocol.dll
+D:\Workz\BitBucket\Purgatory.NET\BIT_TY\Protocol\obj\Release\Protocol.pdb

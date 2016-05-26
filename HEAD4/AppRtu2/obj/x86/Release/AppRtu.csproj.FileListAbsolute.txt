@@ -1,0 +1,39 @@
+C:\Users\Administrator\Desktop\DJ_BIT_Full\bin\Release\AppRtu.exe.config
+C:\Users\Administrator\Desktop\DJ_BIT_Full\bin\Release\AppRtu.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Full\bin\Release\AppRtu.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Full\AppRtu2\obj\x86\Release\AppRtu2.AppRtu.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\bin\Release\AppRtu.exe.config
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\bin\Release\AppRtu.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\bin\Release\AppRtu.pdb
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu2.AppRtu.resources
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.exe
+C:\Users\Administrator\Desktop\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.pdb
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\bin\Release\AppRtu.exe.config
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\bin\Release\AppRtu.exe
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\bin\Release\AppRtu.pdb
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu2.AppRtu.resources
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.exe
+C:\Users\Administrator\Desktop\충호 C# 프로젝트\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\bin\Release\AppRtu.exe.config
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\bin\Release\AppRtu.exe
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\bin\Release\AppRtu.pdb
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.csprojResolveAssemblyReference.cache
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.Properties.Resources.resources
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu2.AppRtu.resources
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.csproj.GenerateResource.Cache
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.exe
+D:\태영시스템 daum\태영시스템프로그램모음\소스\BIT\DaeJeon\통합\DJ_BIT_Integration\AppRtu2\obj\x86\Release\AppRtu.pdb
